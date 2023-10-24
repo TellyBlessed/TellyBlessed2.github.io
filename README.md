@@ -1,2 +1,3 @@
 # TellyBlessed2.github.io
 # This is a Python program that calculates the average index for students.
+# This code defines a Python function called "average" that calculates the average index for a student based on their total marks and the total number of subjects they have. It then calls this function twice with different sets of values for two students. After calculating the average index for each student, it checks whether they have passed or failed based on a condition: if the calculated index is less than 50, it prints "pass: False"; otherwise, it prints "pass: True." This code essentially evaluates whether the students have passed or failed based on their average index.
